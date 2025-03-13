@@ -4,4 +4,3 @@ export const factorielle = (number ) => {
     }
     return number * factorielle(number - 1);
 }
-console.log(factorielle(5));

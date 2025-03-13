@@ -1,0 +1,16 @@
+{
+  "name": "prog1---factorielle",
+  "version": "1.0.0",
+  "description": "factorielle et combinaison",
+  "type" : "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MamitianaAntonio/PROG1---Factorielle.git"
+  },
+  "author": "Antonio - Fy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MamitianaAntonio/PROG1---Factorielle/issues"
+  },
+  "homepage": "https://github.com/MamitianaAntonio/PROG1---Factorielle#readme"
+}
